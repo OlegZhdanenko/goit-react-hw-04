@@ -1,0 +1,7 @@
+.list{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    list-style: none;
+    justify-content: center;
+}
